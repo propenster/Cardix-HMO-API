@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\CardixHealthMOProject\CardixHealthMOProject.DataAccess.Dapper\bin\Debug\netstandard2.0\CardixHealthMOProject.Core.Entities.dll
+C:\Users\User\source\repos\CardixHealthMOProject\CardixHealthMOProject.DataAccess.Dapper\obj\Debug\netstandard2.0\CardixHealthMOProject.DataAccess.Dapper.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CardixHealthMOProject\CardixHealthMOProject.DataAccess.Dapper\obj\Debug\netstandard2.0\CardixHealthMOProject.DataAccess.Dapper.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CardixHealthMOProject\CardixHealthMOProject.DataAccess.Dapper\obj\Debug\netstandard2.0\CardixHealthMOProject.DataAccess.Dapper.AssemblyInfo.cs

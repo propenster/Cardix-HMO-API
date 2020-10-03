@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\CardixHealthMOProject\CardixHealthMOProject\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\User\source\repos\CardixHealthMOProject\CardixHealthMOProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\source\repos\CardixHealthMOProject\CardixHealthMOProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\CardixHealthMOProject\CardixHealthMOProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\CardixHealthMOProject\CardixHealthMOProject\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\User\source\repos\CardixHealthMOProject\CardixHealthMOProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\source\repos\CardixHealthMOProject\CardixHealthMOProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\source\repos\CardixHealthMOProject\CardixHealthMOProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\source\repos\CardixHealthMOProject\CardixHealthMOProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\source\repos\CardixHealthMOProject\CardixHealthMOProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\source\repos\CardixHealthMOProject\CardixHealthMOProject\bin\Debug\netcoreapp3.1\CardixHealthMOProject.Core.Entities.dll
+C:\Users\User\source\repos\CardixHealthMOProject\CardixHealthMOProject\bin\Debug\netcoreapp3.1\CardixHealthMOProject.DataAccess.Dapper.dll
+C:\Users\User\source\repos\CardixHealthMOProject\CardixHealthMOProject\obj\Debug\netcoreapp3.1\CardixHealthMOProject.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CardixHealthMOProject\CardixHealthMOProject\obj\Debug\netcoreapp3.1\CardixHealthMOProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CardixHealthMOProject\CardixHealthMOProject\obj\Debug\netcoreapp3.1\CardixHealthMOProject.AssemblyInfo.cs
+C:\Users\User\source\repos\CardixHealthMOProject\CardixHealthMOProject\obj\Debug\netcoreapp3.1\CardixHealthMOProject.RazorTargetAssemblyInfo.cache
