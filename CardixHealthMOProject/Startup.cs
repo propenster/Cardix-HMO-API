@@ -31,7 +31,7 @@ namespace CardixHealthMOProject
             services.AddScoped<ICardixPatientService, CardixPatientService>();
             services.AddScoped<ICardixPatientRepository, CardixPatientRepository>();
             services.AddSwaggerGen( c => {
-                c.SwaggerDoc("swagger/v1/swagger.json", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "Cardix Health Managment Org API", Version = "v1" });
+                c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "Cardix Health Managment Org API", Version = "v1" });
                 
             });
         }
@@ -56,7 +56,7 @@ namespace CardixHealthMOProject
             });
             app.UseSwagger();
             app.UseSwaggerUI(c => {
-                c.SwaggerEndpoint("v1", "Cardix HMO API Endpoints");
+                c.SwaggerEndpoint("swagger/v1/swagger.json", "Cardix HMO API Endpoints");
                 c.RoutePrefix = string.Empty;
             });
         }
