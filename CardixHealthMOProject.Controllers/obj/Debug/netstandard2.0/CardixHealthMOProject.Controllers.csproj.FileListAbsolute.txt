@@ -4,3 +4,11 @@ C:\Users\User\source\repos\CardixHealthMOProject\CardixHealthMOProject.Controlle
 C:\Users\User\source\repos\CardixHealthMOProject\CardixHealthMOProject.Controllers\obj\Debug\netstandard2.0\CardixHealthMOProject.Controllers.csprojAssemblyReference.cache
 C:\Users\User\source\repos\CardixHealthMOProject\CardixHealthMOProject.Controllers\obj\Debug\netstandard2.0\CardixHealthMOProject.Controllers.AssemblyInfoInputs.cache
 C:\Users\User\source\repos\CardixHealthMOProject\CardixHealthMOProject.Controllers\obj\Debug\netstandard2.0\CardixHealthMOProject.Controllers.AssemblyInfo.cs
+C:\Dev\ApiProjects\CSharpDotNet\CardixHMOProject\src\Cardix-HMO-API\CardixHealthMOProject.Controllers\obj\Debug\netstandard2.0\CardixHealthMOProject.Controllers.csprojAssemblyReference.cache
+C:\Dev\ApiProjects\CSharpDotNet\CardixHMOProject\src\Cardix-HMO-API\CardixHealthMOProject.Controllers\obj\Debug\netstandard2.0\CardixHealthMOProject.Controllers.AssemblyInfoInputs.cache
+C:\Dev\ApiProjects\CSharpDotNet\CardixHMOProject\src\Cardix-HMO-API\CardixHealthMOProject.Controllers\obj\Debug\netstandard2.0\CardixHealthMOProject.Controllers.AssemblyInfo.cs
+C:\Dev\ApiProjects\CSharpDotNet\CardixHMOProject\src\Cardix-HMO-API\CardixHealthMOProject.Controllers\obj\Debug\netstandard2.0\CardixHealthMOProject.Controllers.csproj.CoreCompileInputs.cache
+C:\Dev\ApiProjects\CSharpDotNet\CardixHMOProject\src\Cardix-HMO-API\CardixHealthMOProject.Controllers\bin\Debug\netstandard2.0\CardixHealthMOProject.Core.Entities.dll
+C:\Dev\ApiProjects\CSharpDotNet\CardixHMOProject\src\Cardix-HMO-API\CardixHealthMOProject.Controllers\bin\Debug\netstandard2.0\CardixHealthMOProject.DataAccess.Dapper.dll
+C:\Dev\ApiProjects\CSharpDotNet\CardixHMOProject\src\Cardix-HMO-API\CardixHealthMOProject.Controllers\bin\Debug\netstandard2.0\CardixHealthMOProject.Services.dll
+C:\Dev\ApiProjects\CSharpDotNet\CardixHMOProject\src\Cardix-HMO-API\CardixHealthMOProject.Controllers\bin\Debug\netstandard2.0\CardixHealthMOProject.Core.Entities.pdb

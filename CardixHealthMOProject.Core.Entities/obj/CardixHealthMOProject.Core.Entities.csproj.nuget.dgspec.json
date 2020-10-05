@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\CardixHealthMOProject\\CardixHealthMOProject.Core.Entities\\CardixHealthMOProject.Core.Entities.csproj": {}
+    "C:\\Dev\\ApiProjects\\CSharpDotNet\\CardixHMOProject\\src\\Cardix-HMO-API\\CardixHealthMOProject.Core.Entities\\CardixHealthMOProject.Core.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\CardixHealthMOProject\\CardixHealthMOProject.Core.Entities\\CardixHealthMOProject.Core.Entities.csproj": {
+    "C:\\Dev\\ApiProjects\\CSharpDotNet\\CardixHMOProject\\src\\Cardix-HMO-API\\CardixHealthMOProject.Core.Entities\\CardixHealthMOProject.Core.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\CardixHealthMOProject\\CardixHealthMOProject.Core.Entities\\CardixHealthMOProject.Core.Entities.csproj",
+        "projectUniqueName": "C:\\Dev\\ApiProjects\\CSharpDotNet\\CardixHMOProject\\src\\Cardix-HMO-API\\CardixHealthMOProject.Core.Entities\\CardixHealthMOProject.Core.Entities.csproj",
         "projectName": "CardixHealthMOProject.Core.Entities",
-        "projectPath": "C:\\Users\\User\\source\\repos\\CardixHealthMOProject\\CardixHealthMOProject.Core.Entities\\CardixHealthMOProject.Core.Entities.csproj",
+        "projectPath": "C:\\Dev\\ApiProjects\\CSharpDotNet\\CardixHMOProject\\src\\Cardix-HMO-API\\CardixHealthMOProject.Core.Entities\\CardixHealthMOProject.Core.Entities.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\CardixHealthMOProject\\CardixHealthMOProject.Core.Entities\\obj\\",
+        "outputPath": "C:\\Dev\\ApiProjects\\CSharpDotNet\\CardixHMOProject\\src\\Cardix-HMO-API\\CardixHealthMOProject.Core.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
