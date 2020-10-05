@@ -4,4 +4,9 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CardixHealthMOProject.Core.Entities\CardixHealthMOProject.Core.Entities.csproj" />
+    <ProjectReference Include="..\CardixHealthMOProject.DataAccess.Dapper\CardixHealthMOProject.DataAccess.Dapper.csproj" />
+  </ItemGroup>
+
 </Project>
