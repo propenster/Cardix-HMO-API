@@ -691,12 +691,10 @@
       "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
         "type": "package",
         "build": {
-          "build/Microsoft.Extensions.ApiDescription.Server.props": {},
-          "build/Microsoft.Extensions.ApiDescription.Server.targets": {}
+          "build/_._": {}
         },
         "buildMultiTargeting": {
-          "buildMultiTargeting/Microsoft.Extensions.ApiDescription.Server.props": {},
-          "buildMultiTargeting/Microsoft.Extensions.ApiDescription.Server.targets": {}
+          "buildMultiTargeting/_._": {}
         }
       },
       "Microsoft.Extensions.Caching.Abstractions/2.2.0": {
@@ -1213,7 +1211,7 @@
           "Swashbuckle.AspNetCore.SwaggerUI": "5.6.3"
         },
         "build": {
-          "build/Swashbuckle.AspNetCore.props": {}
+          "build/_._": {}
         }
       },
       "Swashbuckle.AspNetCore.Swagger/5.6.3": {
@@ -2434,6 +2432,7 @@
           "CardixHealthMOProject.Core.Entities": "1.0.0",
           "Dapper": "2.0.35",
           "Microsoft.Extensions.Configuration": "3.1.8",
+          "Swashbuckle.AspNetCore": "5.6.3",
           "System.Data.SqlClient": "4.8.2"
         },
         "compile": {
@@ -7515,8 +7514,7 @@
       "CardixHealthMOProject.Controllers >= 1.0.0",
       "CardixHealthMOProject.Core.Entities >= 1.0.0",
       "CardixHealthMOProject.DataAccess.Dapper >= 1.0.0",
-      "CardixHealthMOProject.Services >= 1.0.0",
-      "Swashbuckle.AspNetCore >= 5.6.3"
+      "CardixHealthMOProject.Services >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -7526,11 +7524,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\CardixHealthMOProject\\CardixHealthMOProject\\CardixHealthMOProject.csproj",
+      "projectUniqueName": "C:\\Dev\\ApiProjects\\CSharpDotNet\\CardixHMOProject\\src\\Cardix-HMO-API\\CardixHealthMOProject\\CardixHealthMOProject.csproj",
       "projectName": "CardixHealthMOProject",
-      "projectPath": "C:\\Users\\User\\source\\repos\\CardixHealthMOProject\\CardixHealthMOProject\\CardixHealthMOProject.csproj",
+      "projectPath": "C:\\Dev\\ApiProjects\\CSharpDotNet\\CardixHMOProject\\src\\Cardix-HMO-API\\CardixHealthMOProject\\CardixHealthMOProject.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\CardixHealthMOProject\\CardixHealthMOProject\\obj\\",
+      "outputPath": "C:\\Dev\\ApiProjects\\CSharpDotNet\\CardixHMOProject\\src\\Cardix-HMO-API\\CardixHealthMOProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7549,17 +7547,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\CardixHealthMOProject\\CardixHealthMOProject.Controllers\\CardixHealthMOProject.Controllers.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\CardixHealthMOProject\\CardixHealthMOProject.Controllers\\CardixHealthMOProject.Controllers.csproj"
+            "C:\\Dev\\ApiProjects\\CSharpDotNet\\CardixHMOProject\\src\\Cardix-HMO-API\\CardixHealthMOProject.Controllers\\CardixHealthMOProject.Controllers.csproj": {
+              "projectPath": "C:\\Dev\\ApiProjects\\CSharpDotNet\\CardixHMOProject\\src\\Cardix-HMO-API\\CardixHealthMOProject.Controllers\\CardixHealthMOProject.Controllers.csproj"
             },
-            "C:\\Users\\User\\source\\repos\\CardixHealthMOProject\\CardixHealthMOProject.Core.Entities\\CardixHealthMOProject.Core.Entities.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\CardixHealthMOProject\\CardixHealthMOProject.Core.Entities\\CardixHealthMOProject.Core.Entities.csproj"
+            "C:\\Dev\\ApiProjects\\CSharpDotNet\\CardixHMOProject\\src\\Cardix-HMO-API\\CardixHealthMOProject.Core.Entities\\CardixHealthMOProject.Core.Entities.csproj": {
+              "projectPath": "C:\\Dev\\ApiProjects\\CSharpDotNet\\CardixHMOProject\\src\\Cardix-HMO-API\\CardixHealthMOProject.Core.Entities\\CardixHealthMOProject.Core.Entities.csproj"
             },
-            "C:\\Users\\User\\source\\repos\\CardixHealthMOProject\\CardixHealthMOProject.DataAccess.Dapper\\CardixHealthMOProject.DataAccess.Dapper.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\CardixHealthMOProject\\CardixHealthMOProject.DataAccess.Dapper\\CardixHealthMOProject.DataAccess.Dapper.csproj"
+            "C:\\Dev\\ApiProjects\\CSharpDotNet\\CardixHMOProject\\src\\Cardix-HMO-API\\CardixHealthMOProject.DataAccess.Dapper\\CardixHealthMOProject.DataAccess.Dapper.csproj": {
+              "projectPath": "C:\\Dev\\ApiProjects\\CSharpDotNet\\CardixHMOProject\\src\\Cardix-HMO-API\\CardixHealthMOProject.DataAccess.Dapper\\CardixHealthMOProject.DataAccess.Dapper.csproj"
             },
-            "C:\\Users\\User\\source\\repos\\CardixHealthMOProject\\CardixHealthMOProject.Services\\CardixHealthMOProject.Services.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\CardixHealthMOProject\\CardixHealthMOProject.Services\\CardixHealthMOProject.Services.csproj"
+            "C:\\Dev\\ApiProjects\\CSharpDotNet\\CardixHMOProject\\src\\Cardix-HMO-API\\CardixHealthMOProject.Services\\CardixHealthMOProject.Services.csproj": {
+              "projectPath": "C:\\Dev\\ApiProjects\\CSharpDotNet\\CardixHMOProject\\src\\Cardix-HMO-API\\CardixHealthMOProject.Services\\CardixHealthMOProject.Services.csproj"
             }
           }
         }
@@ -7572,12 +7570,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "dependencies": {
-          "Swashbuckle.AspNetCore": {
-            "target": "Package",
-            "version": "[5.6.3, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",

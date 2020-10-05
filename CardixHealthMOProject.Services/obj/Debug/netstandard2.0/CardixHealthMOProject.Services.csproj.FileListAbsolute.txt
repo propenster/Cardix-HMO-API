@@ -1,0 +1,4 @@
+C:\Dev\ApiProjects\CSharpDotNet\CardixHMOProject\src\Cardix-HMO-API\CardixHealthMOProject.Services\obj\Debug\netstandard2.0\CardixHealthMOProject.Services.csprojAssemblyReference.cache
+C:\Dev\ApiProjects\CSharpDotNet\CardixHMOProject\src\Cardix-HMO-API\CardixHealthMOProject.Services\obj\Debug\netstandard2.0\CardixHealthMOProject.Services.AssemblyInfoInputs.cache
+C:\Dev\ApiProjects\CSharpDotNet\CardixHMOProject\src\Cardix-HMO-API\CardixHealthMOProject.Services\obj\Debug\netstandard2.0\CardixHealthMOProject.Services.AssemblyInfo.cs
+C:\Dev\ApiProjects\CSharpDotNet\CardixHMOProject\src\Cardix-HMO-API\CardixHealthMOProject.Services\obj\Debug\netstandard2.0\CardixHealthMOProject.Services.csproj.CoreCompileInputs.cache
