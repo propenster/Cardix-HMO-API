@@ -1,0 +1,9 @@
+C:\Dev\ApiProjects\CSharpDotNet\CardixHMOProject\src\Cardix-HMO-API\CardixHealthMOProject.Core.Entities\bin\Debug\netstandard2.0\CardixHealthMOProject.Core.Entities.deps.json
+C:\Dev\ApiProjects\CSharpDotNet\CardixHMOProject\src\Cardix-HMO-API\CardixHealthMOProject.Core.Entities\bin\Debug\netstandard2.0\CardixHealthMOProject.Core.Entities.dll
+C:\Dev\ApiProjects\CSharpDotNet\CardixHMOProject\src\Cardix-HMO-API\CardixHealthMOProject.Core.Entities\bin\Debug\netstandard2.0\CardixHealthMOProject.Core.Entities.pdb
+C:\Dev\ApiProjects\CSharpDotNet\CardixHMOProject\src\Cardix-HMO-API\CardixHealthMOProject.Core.Entities\obj\Debug\netstandard2.0\CardixHealthMOProject.Core.Entities.csprojAssemblyReference.cache
+C:\Dev\ApiProjects\CSharpDotNet\CardixHMOProject\src\Cardix-HMO-API\CardixHealthMOProject.Core.Entities\obj\Debug\netstandard2.0\CardixHealthMOProject.Core.Entities.AssemblyInfoInputs.cache
+C:\Dev\ApiProjects\CSharpDotNet\CardixHMOProject\src\Cardix-HMO-API\CardixHealthMOProject.Core.Entities\obj\Debug\netstandard2.0\CardixHealthMOProject.Core.Entities.AssemblyInfo.cs
+C:\Dev\ApiProjects\CSharpDotNet\CardixHMOProject\src\Cardix-HMO-API\CardixHealthMOProject.Core.Entities\obj\Debug\netstandard2.0\CardixHealthMOProject.Core.Entities.csproj.CoreCompileInputs.cache
+C:\Dev\ApiProjects\CSharpDotNet\CardixHMOProject\src\Cardix-HMO-API\CardixHealthMOProject.Core.Entities\obj\Debug\netstandard2.0\CardixHealthMOProject.Core.Entities.dll
+C:\Dev\ApiProjects\CSharpDotNet\CardixHMOProject\src\Cardix-HMO-API\CardixHealthMOProject.Core.Entities\obj\Debug\netstandard2.0\CardixHealthMOProject.Core.Entities.pdb
